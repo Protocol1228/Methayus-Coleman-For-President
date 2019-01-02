@@ -1,0 +1,18 @@
+.header > h1 {
+    padding:7px;
+    
+}
+
+
+.resize{
+    width:3px;
+}
+.header {
+    background: #0074D9;
+    padding-left: 26px;
+    color:white;
+    
+}
+.body{
+    background-color:red;
+}
